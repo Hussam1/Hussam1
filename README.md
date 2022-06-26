@@ -15,4 +15,4 @@ I love good Visualization because: they're fun! 😄
 
 🌱 Interested in developing my knowledge in NLP and Reinforcement learning
 
-📫 Get in touch with me on LinkedIn.
+📫 Get in touch with me on [LinkedIn](https://www.linkedin.com/in/hussam-al-homsi/).
